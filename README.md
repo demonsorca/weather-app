@@ -6,15 +6,16 @@ I've created an weather app using React Native and its lib's, expo-location lib 
 
 API was used from openweathermap.org.
 
-# Demo
+## Demo
 You can test it by using these steps:
 - Install Expo app from playstore.
 - Open Expo app and scan the QR code shown in this link(https://expo.dev/@demons_orca/weather-app) and there you go!
 
-# Setup
+## Setup
 -run npm i && npm start
 
-![Weather App](https://i.ibb.co/RScL1T3/weather-app.jpg)
+## Screenshot
+![Weather App](https://i.ibb.co/k0jhF5f/Weather-app.jpg)
 
 
 
