@@ -14,6 +14,8 @@ You can test it by using these steps:
 ## Setup
 -run npm i && npm start
 
+
+
 ## Screenshot
 ![Weather App](https://i.ibb.co/k0jhF5f/Weather-app.jpg)
 
